@@ -1,0 +1,6 @@
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales\bin\Debug\Materiales.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales\bin\Debug\Materiales.pdb
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales\obj\Debug\Materiales.csprojAssemblyReference.cache
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales\obj\Debug\Materiales.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales\obj\Debug\Materiales.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales\obj\Debug\Materiales.pdb

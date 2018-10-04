@@ -1,0 +1,10 @@
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\bin\Debug\Materiales_NuevaGeneración.exe.config
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\bin\Debug\Materiales_NuevaGeneración.exe
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\bin\Debug\Materiales_NuevaGeneración.pdb
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.csprojAssemblyReference.cache
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.Form1.resources
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.Properties.Resources.resources
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.csproj.GenerateResource.cache
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.exe
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.pdb
