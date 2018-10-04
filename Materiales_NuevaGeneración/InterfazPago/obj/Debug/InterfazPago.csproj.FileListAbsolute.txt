@@ -1,0 +1,6 @@
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\InterfazPago\bin\Debug\InterfazPago.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\InterfazPago\bin\Debug\InterfazPago.pdb
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\InterfazPago\obj\Debug\InterfazPago.csprojAssemblyReference.cache
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\InterfazPago\obj\Debug\InterfazPago.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\InterfazPago\obj\Debug\InterfazPago.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\InterfazPago\obj\Debug\InterfazPago.pdb

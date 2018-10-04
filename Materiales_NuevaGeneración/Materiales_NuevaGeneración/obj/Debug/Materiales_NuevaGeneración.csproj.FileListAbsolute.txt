@@ -8,3 +8,12 @@ C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración
 C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.csproj.CoreCompileInputs.cache
 C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.exe
 C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.pdb
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\bin\Debug\BaseDatos.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\bin\Debug\Materiales.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\bin\Debug\BaseDatos.pdb
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\bin\Debug\Materiales.pdb
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.csproj.CopyComplete
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.Proveedores.resources
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\obj\Debug\Materiales_NuevaGeneración.Tarjeta.resources
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\bin\Debug\InterfazPago.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\Materiales_NuevaGeneración\bin\Debug\InterfazPago.pdb

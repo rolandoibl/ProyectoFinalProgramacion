@@ -32,7 +32,7 @@
             this.cmbOpciones = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnAceptar = new System.Windows.Forms.Button();
             this.txtbDensidad = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.cmbMedidas = new System.Windows.Forms.ComboBox();
@@ -44,18 +44,25 @@
             // cmbCategoria
             // 
             this.cmbCategoria.FormattingEnabled = true;
+            this.cmbCategoria.Items.AddRange(new object[] {
+            "Metal",
+            "Madera",
+            "Plástico"});
             this.cmbCategoria.Location = new System.Drawing.Point(74, 76);
             this.cmbCategoria.Name = "cmbCategoria";
             this.cmbCategoria.Size = new System.Drawing.Size(121, 21);
             this.cmbCategoria.TabIndex = 0;
+            this.cmbCategoria.SelectedIndexChanged += new System.EventHandler(this.cmbCategoria_SelectedIndexChanged);
             // 
             // cmbOpciones
             // 
+            this.cmbOpciones.Enabled = false;
             this.cmbOpciones.FormattingEnabled = true;
             this.cmbOpciones.Location = new System.Drawing.Point(74, 128);
             this.cmbOpciones.Name = "cmbOpciones";
             this.cmbOpciones.Size = new System.Drawing.Size(121, 21);
             this.cmbOpciones.TabIndex = 0;
+            this.cmbOpciones.SelectedIndexChanged += new System.EventHandler(this.cmbOpciones_SelectedIndexChanged);
             // 
             // label1
             // 
@@ -75,17 +82,19 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Opciones:";
             // 
-            // button1
+            // btnAceptar
             // 
-            this.button1.Location = new System.Drawing.Point(539, 76);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "Aceptar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnAceptar.Location = new System.Drawing.Point(102, 291);
+            this.btnAceptar.Name = "btnAceptar";
+            this.btnAceptar.Size = new System.Drawing.Size(75, 23);
+            this.btnAceptar.TabIndex = 3;
+            this.btnAceptar.Text = "Aceptar";
+            this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // txtbDensidad
             // 
+            this.txtbDensidad.Enabled = false;
             this.txtbDensidad.Location = new System.Drawing.Point(77, 186);
             this.txtbDensidad.Name = "txtbDensidad";
             this.txtbDensidad.Size = new System.Drawing.Size(100, 20);
@@ -102,11 +111,13 @@
             // 
             // cmbMedidas
             // 
+            this.cmbMedidas.Enabled = false;
             this.cmbMedidas.FormattingEnabled = true;
             this.cmbMedidas.Location = new System.Drawing.Point(74, 236);
             this.cmbMedidas.Name = "cmbMedidas";
             this.cmbMedidas.Size = new System.Drawing.Size(121, 21);
             this.cmbMedidas.TabIndex = 0;
+            this.cmbMedidas.SelectedIndexChanged += new System.EventHandler(this.cmbMedidas_SelectedIndexChanged);
             // 
             // label4
             // 
@@ -120,9 +131,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Materiales_NuevaGeneración.Properties.Resources.Materiales;
-            this.pictureBox1.Location = new System.Drawing.Point(0, -2);
+            this.pictureBox1.Location = new System.Drawing.Point(1, -1);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(742, 377);
+            this.pictureBox1.Size = new System.Drawing.Size(468, 376);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
@@ -131,10 +142,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(742, 375);
+            this.ClientSize = new System.Drawing.Size(466, 374);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txtbDensidad);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -153,14 +164,14 @@
         #endregion
 
         private System.Windows.Forms.ComboBox cmbCategoria;
-        private System.Windows.Forms.ComboBox cmbOpciones;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnAceptar;
         private System.Windows.Forms.TextBox txtbDensidad;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ComboBox cmbMedidas;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.ComboBox cmbOpciones;
         private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

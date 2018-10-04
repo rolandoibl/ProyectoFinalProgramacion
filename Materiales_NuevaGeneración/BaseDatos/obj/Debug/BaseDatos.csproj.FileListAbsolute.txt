@@ -1,0 +1,9 @@
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\BaseDatos\obj\Debug\BaseDatos.csprojAssemblyReference.cache
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\BaseDatos\bin\Debug\Materiales.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\BaseDatos\bin\Debug\Materiales.pdb
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\BaseDatos\obj\Debug\BaseDatos.csproj.CopyComplete
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\Rolando\Desktop\Materiales_NuevaGeneración\BaseDatos\obj\Debug\BaseDatos.pdb

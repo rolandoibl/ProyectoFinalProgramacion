@@ -8,12 +8,10 @@ namespace Materiales
 {
     public class Madera : Material
     {
-        private float espesor;
-        public Madera(string nombre, float densidad, string tipo, float espesor) : base(nombre, densidad, tipo)
+ 
+        public Madera(string nombre, float densidad, string tipo,string medidas) : base(nombre, densidad, tipo,medidas)
         {
-            this.Tipo = "Madera";
         }
 
-        public float Espesor { get => espesor; set => espesor = value; }
     }
 }

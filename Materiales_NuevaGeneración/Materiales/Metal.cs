@@ -14,9 +14,8 @@ namespace Materiales
         #endregion
 
         #region Constructores
-        public Metal(string nombre, float densidad, string tipo,float fluencia, float moduloYoung) : base(nombre, densidad, tipo)
+        public Metal(string nombre, float densidad, string tipo,string medidas,float fluencia, float moduloYoung) : base(nombre, densidad, tipo,medidas)
         {
-            this.Tipo = "Metal";
         }
         #endregion
 
